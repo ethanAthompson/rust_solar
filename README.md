@@ -47,6 +47,8 @@ Select a Date on the Earth and Calculate the Date on Planet, Moon, or Asteroid.
 ### Feature-Note
 Determining the year, month, and days on the calendars of each Celestial body is important.
 
+### Feauture-Note 2
+Determining the start time of each Celestial body Prime Meridian is important.
 
 ## Supports
 - Calendars
@@ -91,6 +93,9 @@ Determining the year, month, and days on the calendars of each Celestial body is
 
 ## References
 * [Mars Calendar](https://marscalendar.com/introduction)
+* [24 Timezones](https://24timezones.com/#/map)
+* [World Timezones](https://www.worldtimezone.com/)
+* [Solar System Scope](https://www.solarsystemscope.com/)
 
 ## Summary
 >  A Comprehenisve library for cosmic calendar
