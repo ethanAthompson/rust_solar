@@ -45,10 +45,10 @@ Select a Date on a Planet, Moon, or Astroid and Calculate the Earth's date.
 Select a Date on the Earth and Calculate the Date on Planet, Moon, or Asteroid.
 
 ### Feature-Note
-Determining the year, month, and days on the calendars of each Celestial body is important.
+> Determining the year, month, and days on the calendars of each Celestial body is important.
 
 ### Feauture-Note 2
-Determining the start time of each Celestial body Prime Meridian is important.
+> Determining the start time of each Celestial body Prime Meridian is important.
 
 ## Supports
 - Calendars
