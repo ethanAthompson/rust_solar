@@ -1,0 +1,17 @@
+[package]
+name = "rust_solar"
+version = "0.0.1"
+edition = "2021"
+description = "A library made for cosmic calendar"
+authors = ["Ethan", "ethan.a.thompson@outlook.com"]
+license = "MIT"
+repository = ""
+
+[dependencies]
+chrono = "0.4.31"
+lunar_rust = "1.0.1"
+ron = "0.8.1"
+serde = { version = "1.0.193", features = ["derive"] }
+
+# Convert to library after done
+
