@@ -3,7 +3,7 @@
 //!
 //! A library for cosmic calendar.
 
-pub fn main() {}
+// pub fn main() {}
 
 
 
