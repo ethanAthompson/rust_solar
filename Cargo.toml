@@ -1,6 +1,6 @@
 [package]
 name = "rust_solar"
-version = "0.0.1"
+version = "0.0.2"
 edition = "2021"
 description = "A library made for cosmic calendar"
 authors = ["Ethan", "ethan.a.thompson@outlook.com"]
