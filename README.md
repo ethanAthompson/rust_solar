@@ -1,14 +1,14 @@
 # Rust Solar
 
-
 # Table of Contents
   * [Introduction](#intro)
   * [Supports](#supports)
-  * [Credits](#credits)
   * [Summary](#summary)
 
+## Intro
+> A library for Cosmic Calendar,
+  you are free to use this library for any projects.
 
-## intro
 ## Supports
 - Calendars
   - [ ] Solar
@@ -34,5 +34,6 @@
   - [ ]
   - [ ]
   - [ ]
-## credits
-## summary
+
+## Summary
+>  A Comprehenisve library for cosmic calendar
