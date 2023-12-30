@@ -6,7 +6,7 @@ description = "A library made for cosmic calendar"
 authors = ["Ethan", "ethan.a.thompson@outlook.com"]
 license = "MIT"
 repository = "https://github.com/ethanAthompson/rust_solar"
-
+documentation = "https://docs.rs/crate/rust_solar"
 
 
 [dependencies]
