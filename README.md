@@ -52,7 +52,7 @@
   - [ ] Thebe
 
 ## References
-* [Mars Calendar](https://marscalendar.com/introduction){:target="_blank"}
+* [Mars Calendar](https://marscalendar.com/introduction)
 
 ## Summary
 >  A Comprehenisve library for cosmic calendar
