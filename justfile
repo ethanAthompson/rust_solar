@@ -6,3 +6,6 @@ build:
 
 up:
 	update_repo.sh
+
+load:
+	cargo publish
