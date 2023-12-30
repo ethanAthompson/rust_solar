@@ -15,5 +15,4 @@ lunar_rust = "1.0.1"
 ron = "0.8.1"
 serde = { version = "1.0.193", features = ["derive"] }
 
-# Convert to library after done
 

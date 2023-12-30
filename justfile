@@ -9,3 +9,12 @@ up:
 
 load:
 	cargo publish
+
+
+# In order to show documentation
+#
+# 1. Rename main.rs to lib.rs
+# 2. Comment out main.rs
+# 3. cargo publish again
+# 4. it'll say its not a library, if so wait and do it again
+
