@@ -96,6 +96,33 @@ Select a Date on the Earth and Calculate the Date on Planet, Moon, or Asteroid.
 * [24 Timezones](https://24timezones.com/#/map)
 * [World Timezones](https://www.worldtimezone.com/)
 * [Solar System Scope](https://www.solarsystemscope.com/)
+* [Solistces & Equinoxes](https://www.fi.edu/en/blog/what-solstice-and-what-equinox-and-why-should-i-care#:~:text=Astronomically%2C%20our%20planet's%20seasons%20change,March%20and%20one%20in%20September)
+* [Calendar Chinese WebExhibits](https://www.webexhibits.org/calendars/calendar-chinese.html#anchor-chinese-year)
+* [Chinese Calender](https://www.calendar.com/blog/chinese-calendar/)
+* [Chinese Months](https://www.fluentu.com/blog/chinese/months-in-chinese/)
+* [History of Calendars](https://www.researchgate.net/publication/280779688_Historical_Analysis_of_Calendars-Chinese_Calendars_and_World_Calendars)
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+
+
+
 
 ## Summary
 >  A Comprehenisve library for cosmic calendar

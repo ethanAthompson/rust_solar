@@ -10,9 +10,11 @@ documentation = "https://docs.rs/crate/rust_solar"
 
 
 [dependencies]
-chrono = "0.4.31"
-lunar_rust = "1.0.1"
-ron = "0.8.1"
-serde = { version = "1.0.193", features = ["derive"] }
+strum = { version = "0.25", features = ["derive"] }
+
+# chrono = "0.4.31"
+# lunar_rust = "1.0.1"
+# ron = "0.8.1"
+# serde = { version = "1.0.193", features = ["derive"] }
 
 
