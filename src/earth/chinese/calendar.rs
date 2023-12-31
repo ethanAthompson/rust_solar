@@ -5,6 +5,132 @@
 use crate::format::Text;
 use strum::*;
 
+#[doc(alias = "Chinese 60 Year Cycle")]
+#[doc = "Repeats after GuiHai"]
+#[derive(Debug, EnumProperty)]
+pub enum ChineseCycle {
+    #[strum(props(Name = "JiaZi", Value = "1"))]
+    JiaZi,
+    #[strum(props(Name = "YiChou", Value = "2"))]
+    YiChou,
+    #[strum(props(Name = "BingYin", Value = "3"))]
+    BingYin,
+    #[strum(props(Name = "DingMao", Value = "4"))]
+    DingMao,
+    #[strum(props(Name = "WuChen", Value = "5"))]
+    WuChen,
+    #[strum(props(Name = "JiSi", Value = "6"))]
+    JiSi,
+    #[strum(props(Name = "GengWu", Value = "7"))]
+    GengWu,
+    #[strum(props(Name = "XinWei", Value = "8"))]
+    XinWei,
+    #[strum(props(Name = "RenShen", Value = "9"))]
+    RenShen,
+    #[strum(props(Name = "GuiYou", Value = "10"))]
+    GuiYou,
+    #[strum(props(Name = "JiaXu", Value = "11"))]
+    JiaXu,
+    #[strum(props(Name = "YiHai", Value = "12"))]
+    YiHai,
+    #[strum(props(Name = "BingZi", Value = "13"))]
+    BingZi,
+    #[strum(props(Name = "DingChou", Value = "14"))]
+    DingChou,
+    #[strum(props(Name = "WuYin", Value = "15"))]
+    WuYin,
+    #[strum(props(Name = "JiMao", Value = "16"))]
+    JiMao,
+    #[strum(props(Name = "GengChen", Value = "17"))]
+    GengChen,
+    #[strum(props(Name = "XinSi", Value = "18"))]
+    XinSi,
+    #[strum(props(Name = "RenWu", Value = "19"))]
+    RenWu,
+    #[strum(props(Name = "GuiWei", Value = "20"))]
+    GuiWei,
+    #[strum(props(Name = "JiaShen", Value = "21"))]
+    JiaShen,
+    #[strum(props(Name = "YiYou", Value = "22"))]
+    YiYou,
+    #[strum(props(Name = "BingXu", Value = "23"))]
+    BingXu,
+    #[strum(props(Name = "DingHai", Value = "24"))]
+    DingHai,
+    #[strum(props(Name = "WuZi", Value = "25"))]
+    WuZi,
+    #[strum(props(Name = "JiChou", Value = "26"))]
+    JiChou,
+    #[strum(props(Name = "GengYin", Value = "27"))]
+    GengYin,
+    #[strum(props(Name = "XinMao", Value = "28"))]
+    XinMao,
+    #[strum(props(Name = "RenChen", Value = "29"))]
+    RenChen,
+    #[strum(props(Name = "GuiSi", Value = "30"))]
+    GuiSi,
+    #[strum(props(Name = "JiaWu", Value = "31"))]
+    JiaWu,
+    #[strum(props(Name = "YiWei", Value = "32"))]
+    YiWei,
+    #[strum(props(Name = "BingShen", Value = "33"))]
+    BingShen,
+    #[strum(props(Name = "DingYou", Value = "34"))]
+    DingYou,
+    #[strum(props(Name = "WuXu", Value = "35"))]
+    WuXu,
+    #[strum(props(Name = "JiHai", Value = "36"))]
+    JiHai,
+    #[strum(props(Name = "GengZi", Value = "37"))]
+    GengZi,
+    #[strum(props(Name = "XinChou", Value = "38"))]
+    XinChou,
+    #[strum(props(Name = "RenYin", Value = "39"))]
+    RenYin,
+    #[strum(props(Name = "GuiMao", Value = "40"))]
+    GuiMao,
+    #[strum(props(Name = "JiaChen", Value = "41"))]
+    JiaChen,
+    #[strum(props(Name = "YiWu", Value = "42"))]
+    YiWu,
+    #[strum(props(Name = "BingSi", Value = "43"))]
+    BingSi,
+    #[strum(props(Name = "DingWei", Value = "44"))]
+    DingWei,
+    #[strum(props(Name = "WuShen", Value = "45"))]
+    WuShen,
+    #[strum(props(Name = "JiYou", Value = "46"))]
+    JiYou,
+    #[strum(props(Name = "GengXu", Value = "47"))]
+    GengXu,
+    #[strum(props(Name = "XinHai", Value = "48"))]
+    XinHai,
+    #[strum(props(Name = "RenZi", Value = "49"))]
+    RenZi,
+    #[strum(props(Name = "GuiChou", Value = "50"))]
+    GuiChou,
+    #[strum(props(Name = "JiaYin", Value = "51"))]
+    JiaYin,
+    #[strum(props(Name = "YiMao", Value = "52"))]
+    YiMao,
+    #[strum(props(Name = "BingChen", Value = "53"))]
+    BingChen,
+    #[strum(props(Name = "DingWu", Value = "54"))]
+    DingWu,
+    #[strum(props(Name = "WuSi", Value = "55"))]
+    WuSi,
+    #[strum(props(Name = "JiWei", Value = "56"))]
+    JiWei,
+    #[strum(props(Name = "GengShen", Value = "57"))]
+    GengShen,
+    #[strum(props(Name = "XinYou", Value = "58"))]
+    XinYou,
+    #[strum(props(Name = "RenXu", Value = "59"))]
+    RenXu,
+    #[strum(props(Name = "GuiHai", Value = "60"))]
+    GuiHai,
+}
+
 #[doc(alias = "Celestial Stemm")]
 #[doc = "The chinese calender is repeated per 60 years"]
 #[doc = ""]
@@ -106,6 +232,16 @@ impl ChineseCalendar {
             Self::ShenYue | Self::YouYue | Self::XuYue => Season::Autumn.get_str("Name").unwrap(),
             Self::HaiYue | Self::ZiYue | Self::ChouYue => Season::Winter.get_str("Name").unwrap(),
         }
+    }
+}
+
+impl ChineseCycle {
+
+    #[doc(alias = "Is Cycle Year")]
+    #[doc = "Returns the Celestial Stem from the year given"]
+    pub fn is_cycle_year(year: i32) -> Text {
+        /// determine what makes a cycle year?
+        ""
     }
 }
 

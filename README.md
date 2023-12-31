@@ -101,7 +101,7 @@ Select a Date on the Earth and Calculate the Date on Planet, Moon, or Asteroid.
 * [Chinese Calender](https://www.calendar.com/blog/chinese-calendar/)
 * [Chinese Months](https://www.fluentu.com/blog/chinese/months-in-chinese/)
 * [History of Calendars](https://www.researchgate.net/publication/280779688_Historical_Analysis_of_Calendars-Chinese_Calendars_and_World_Calendars)
-* []()
+* [Chinese Travel Guide](https://www.travelchinaguide.com/intro/focus/calendar.htm)
 * []()
 * []()
 * []()
